@@ -1,5 +1,5 @@
-# t
-
+# Recipe sharing app in Vue.js 3
+I used vue-router for the routing, created components and used a global style variables to make color changes easier.
 ## Project setup
 ```
 yarn install
